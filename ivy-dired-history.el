@@ -1,4 +1,4 @@
-;;; ivy-dired-history.el --- use ivy to open recent directories
+;;; ivy-dired-history.el --- use ivy to open recent directories  -*- lexical-binding: t; -*-
 
 ;; Author: 纪秀峰 <jixiuf@gmail.com>
 ;; Copyright (C) 2017 纪秀峰, all rights reserved.
